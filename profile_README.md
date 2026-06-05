@@ -32,11 +32,11 @@ My work sits at the intersection of machine learning, financial analytics, hydro
 | 04 | Machine Learning-Based Spatial Data Development for Optimizing Astronomical Observatory Sites | *PLOS ONE* | 2023 |
 | 05 | Hydrologic Flow Regimes in Manitoba: Streamflow-Baseflow Relationships | — | 2025 |
 | 06 | Hydroclimate Associations and Runoff Timing Shifts in Fraser River Discharge at Hope, BC | — | 2026 |
-| 07 | Prediction Calculation of PT. Indofood Sukses Makmur Tbk Stock Using ARIMA | ResearchGate | 🥇 Gold Medal |
-| 08 | Waning Immunity, Partial Protection, and Behavior Dependent Contact in a Discrete Time SIRS Model | UBC BIOL 301 | — |
-| 09 | The Utilization of Anisomeles indica as a Mosquito Larvicide | — | — |
+| 07 | Prediction Calculation of PT. Indofood Sukses Makmur Tbk Stock Using ARIMA | ResearchGate | 2020 |
+| 08 | Waning Immunity, Partial Protection, and Behavior Dependent Contact in a Discrete Time SIRS Model | UBC BIOL 301 | 2025 |
+| 09 | The Utilization of Anisomeles indica as a Mosquito Larvicide | — | 2020 |
 | 10 | Cloning and Expression of NS2B/NS3 Protein of DENV3 Indonesia Strain for Dengue Vaccine | — | — |
-| 11 | The Effects of Fagus sylvatica Leaf Extract on the Growth Rate of Tetrahymena | *UBC Expedition Journal* | — |
+| 11 | The Effects of Fagus sylvatica Leaf Extract on the Growth Rate of Tetrahymena | *UBC Expedition Journal* | 2024 |
 
 ---
 
